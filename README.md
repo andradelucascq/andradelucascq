@@ -1,9 +1,10 @@
-# Hi 👋!
+# Olá 👋!
 
 <p align="center">
   <img
-    src="https://github.githubassets.com/images/icons/emoji/unicode/1f351.png"
-    width="200"
+    src="https://www.iconduck.com/api/v2/vectors/vctr4ytzux8x/media/png/1024/download"
+    width="1023"
+    height="1024"
     alt="🍑"
   />
 </p>
